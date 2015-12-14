@@ -1,5 +1,0 @@
- - **John Folberth**
-     - *Orange*
-     - *Baltimore*
-     - Spagetti
-     - Brewing Bee
